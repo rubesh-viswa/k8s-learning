@@ -1,0 +1,15 @@
+{
+  "name": "k8s-learning",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "A sample used to be used for learning k8s",
+  "main": "node index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
